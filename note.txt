@@ -4,3 +4,4 @@
 
 - Một bài toán classification có thể dùng clustering để làm nếu có khả năng xử lý 
 dữ liệu đủ tốt. Cả 2 đều phân biệt pattern
+
